@@ -113,7 +113,7 @@ def home():
     </div>
 
     <div class="card" style="background:#1a1a2e; color:#ffcc66; padding:20px; line-height:1.8; border-radius:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);">
-    <h2 style="color:#ffaa00; font-size:28px; margin-bottom:15px;">Real-Time DevOps Projects By veera Sir NareshIt</h2>
+    <h2 style="color:#ffaa00; font-size:28px; margin-bottom:15px;">Real-Time DevOps Projects</h2>
     <ul style="list-style-type: square; padding-left: 20px; font-size:16px;">
         <li>Multi-Tier Full-Stack Node.js Application Deployed on AWS Using 20+ Services with High Availability, Scalability, Networking, Security, and Monitoring</li>
         <li>Cloud Deployment of a Scalable, Resilient Full-Stack Python Application on AWS EC2 with Disaster Recovery Strategy</li>
