@@ -86,8 +86,8 @@ def get_layout(title, content):
         </div>
 
         <div class="footer">
-            © 2026 Veera Sir – Naresh IT <br>
-            Multi-Cloud DevSecOps | AWS | Azure | GCP | Kubernetes | Terraform | Ansible
+            © 2026 I love  India <br>
+          Exciting future for FDE engineers
         </div>
 
     </body>
@@ -98,12 +98,12 @@ def get_layout(title, content):
 def home():
     home_content = """
     <div class="card">
-        <h1 style="color:#ffcc00;">Multi-Cloud DevOps Training</h1>
-        <h2 style="color:#f87171;">By Veera Sir – Naresh IT</h2>
+        <h1 style="color:#ffcc00;">Vibrant India</h1>
+        <h2 style="color:#f87171;">By Aadvik IT</h2>
 
         <p>
-            Welcome to the <b>industry-oriented Multi-Cloud DevOps Training</b> designed by
-            <b>Veera Sir</b> at <b>Naresh IT</b>.
+            Welcome to the <b>vibrant INDIA</b> designed by
+            <b>aadvik </b> at <b>hyderabad</b>.
         </p>
 
         <p>
